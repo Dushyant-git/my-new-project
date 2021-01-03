@@ -20,7 +20,5 @@ public class HelloWorldBean {
 	public String toString() {
 		return String.format("HelloWorldBean [message=%s]", message);
 	}
-	
-	
 
 }
